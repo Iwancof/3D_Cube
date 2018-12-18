@@ -1,4 +1,4 @@
-let input_key_buffer = [];//キー入力
+/*let input_key_buffer = [];//キー入力
 for(let i = 0; i < 4; i++) input_key_buffer[i] = false;//押してない状態を初期値とする
 const canvas = document.getElementById('action');
 let ctx = canvas.getContext('2d');
@@ -150,4 +150,4 @@ cubeData();
 (function animloop() {
 	all();
 	window.requestAnimationFrame(animloop);
-}());
+}());*/
